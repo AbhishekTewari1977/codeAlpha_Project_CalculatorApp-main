@@ -1,1 +1,1 @@
-# codeAlpha_Project_CalculatorApp-main
+# codeAlpha_Project_CalculatorApp
